@@ -47,6 +47,9 @@
 
 
 
+ ./keyhunt -m bsgs -f tests/135.txt -b 135  -S -n 0x400000000000 -k 8192 -t 8 -s 10 -S
+
+
 
 
 # keyhunt
